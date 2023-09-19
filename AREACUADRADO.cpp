@@ -10,5 +10,5 @@ int main()
 	printf("Base: ");
 	scanf_s("%d", &base);
 	area = base * altura;
-	printf("El cuadro de %-10i x %-10i tiene area de %-10i", base, altura, area);
+	printf("El rectangulo de %-10i x %-10i tiene area de %-10i", base, altura, area);
 }
